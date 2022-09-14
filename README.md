@@ -29,9 +29,6 @@ William Stearns*
 
 <img src="res/readme/game1.png" width="475" height="300">
 <img src="res/readme/game2.png" width="475" height="300">
-
-<br>
-
 <img src="res/readme/game3.png" width="475" height="300">
 <img src="res/readme/game4.png" width="475" height="300">
 

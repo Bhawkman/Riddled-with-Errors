@@ -27,13 +27,13 @@ Samyel Snyder
 William Stearns*   
 <br>
 
-<img src="/Users/benhawkins/Documents/Pictures/game1.png" width="475" height="300">
-<img src="/Users/benhawkins/Documents/Pictures/game2.png" width="475" height="300">
+<img src="res/readme/game1.png" width="475" height="300">
+<img src="res/readme/game2.png" width="475" height="300">
 
 <br>
 
-<img src="/Users/benhawkins/Documents/Pictures/game3.png" width="475" height="300">
-<img src="/Users/benhawkins/Documents/Pictures/game4.png" width="475" height="300">
+<img src="res/readme/game3.png" width="475" height="300">
+<img src="res/readme/game4.png" width="475" height="300">
 
 <br>
 

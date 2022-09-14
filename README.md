@@ -41,7 +41,7 @@ William Stearns*
 ## Future Ideas
 
 > This project had a timeframe of 2 months, not nearly enough time for our   
-> project team to complete what we wanted to for this project. In the future,  
+> project team to complete what we wanted to. In the future,  
 > we hope to
 >  
 > - implement music

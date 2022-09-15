@@ -42,7 +42,7 @@ William Stearns*
 >  
 > - implement music
 > - create more levels
-> - create an editor for teachers to create their won levels
+> - create an editor for teachers to create their own levels
 > - create new maps for different topics
 > - create new difficulties
 > - add more unique puzzles
